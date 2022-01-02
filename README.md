@@ -12,4 +12,5 @@ What is planned to be changed:
 1. Enemy spawn system
 2. Balance (difficulty, spell CD, enemy ATK and so on)
 3. The ending screen
-4. something else idk
+4. The loading screen
+5. something else idk
