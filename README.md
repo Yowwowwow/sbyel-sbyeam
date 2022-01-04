@@ -20,6 +20,5 @@ Known bugs/glitches:
 2. Sometimes one enemy will spawn after the game is over
 3. Possible HP recovery bug (but it might be just an illusion... who knows)
 
-Version history:
-
-Jan 2, 2022: WIP ver.1
+Version history: 
+1. Jan 2, 2022: WIP ver.1
