@@ -21,4 +21,5 @@ Known bugs/glitches:
 3. Possible HP recovery bug (but it might be just an illusion... who knows)
 
 Version history:
+
 Jan 2, 2022: WIP ver.1
