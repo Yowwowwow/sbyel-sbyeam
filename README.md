@@ -17,6 +17,7 @@ What is planned to be changed or tweaked:
 
 Known bugs/glitches that aren't fixed yet:
 1. Sometimes one enemy or one particle will spawn after the game is over
+2. Some spells' cool down time and their black circle cool down animation don't sync
 
 Version history: 
 1. Jan 2, 2022: WIP ver.1
