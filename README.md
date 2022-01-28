@@ -27,7 +27,7 @@ Spell information:
 
 What is planned to be added:
 1. More types of enemies (currently there are three)
-2. Music and sound effects (currently the game is completely silent)
+2. Music and more sound effects (currently only the spells have one sound effect each)
 3. something else idk
 
 What is planned to be changed or tweaked:
@@ -44,3 +44,4 @@ Version history:
 1. Jan 2, 2022: WIP ver.1
 2. Jan 25, 2022: WIP ver.2
 3. Jan 27, 2022: WIP ver.3
+4. Jan 28, 2022: WIP ver.4
