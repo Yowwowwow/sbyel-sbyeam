@@ -1,5 +1,5 @@
 # sbyel-sbyeam
-sbyel sbye/am!!!!!!
+s-byel s-bye/am!!!!!!
 NOTE:
 This is still a work in progress.
 
