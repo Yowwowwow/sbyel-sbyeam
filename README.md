@@ -1,7 +1,7 @@
 # sbyel-sbyeam
 s-byel s-bye/am!!!!!!
 NOTE:
-This is still a work in progress.
+This is still a work in progress. However, it is uncertain whether this game will ever get another update after 2022 Jul 4 or not.
 
 How to Play & Information:
 A bunch of enemies are approaching and attacking you! Use the 8 spells that you have to defend yourself!
@@ -26,8 +26,8 @@ Spell information:
 **jìn tsuyù** (Poison Field): Creates a pentagonal poison field, any enemy that touches it will be damaged slowly over time. When the player's HP is lower than a specific number, the poison field lasts longer as the Player's HP lowers.
 
 What is planned to be added:
-1. More types of enemies (currently there are three)
-2. Music and more sound effects (currently only the spells have one sound effect each)
+1. More types of enemies
+2. More sound effects
 3. something else idk
 
 What is planned to be changed or tweaked:
@@ -45,3 +45,7 @@ Version history:
 2. Jan 25, 2022: WIP ver.2
 3. Jan 27, 2022: WIP ver.3
 4. Jan 28, 2022: WIP ver.4
+5. Jul 4, 2022: WIP ver.5
+
+Change log:
+WIP ver.5: BGM added. SFX volume adjusted.
