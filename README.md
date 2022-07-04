@@ -47,6 +47,5 @@ Version history:
 4. Jan 28, 2022: WIP ver.4
 5. Jul 4, 2022: WIP ver.5
 
-Change log:
-
-WIP ver.5: BGM added. SFX volume adjusted.
+Change log:  
+- WIP ver.5: BGM added. SFX volume adjusted.
