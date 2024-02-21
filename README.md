@@ -1,7 +1,7 @@
 # sbyel-sbyeam
 s-byel s-bye/am!!!!!!
 NOTE:
-This is still a work in progress. However, it is uncertain whether this game will ever get another update after 2022 Jul 4 or not.
+This is still a work in progress (or maybe not lol). However, it is uncertain whether this game will ever get another update after 2022 Jul 4 or not.
 
 How to Play & Information:
 A bunch of enemies are approaching and attacking you! Use the 8 spells that you have to defend yourself!
