@@ -25,12 +25,12 @@ Spell information:
 
 **jìn tsuyù** (Poison Field): Creates a pentagonal poison field, any enemy that touches it will be damaged slowly over time. When the player's HP is lower than a specific number, the poison field lasts longer as the Player's HP lowers.
 
-What is planned to be added:
+What was planned to be added:
 1. More types of enemies
 2. More sound effects
 3. something else idk
 
-What is planned to be changed or tweaked:
+What was planned to be changed or tweaked:
 1. Enemy spawn system
 2. Balance (difficulty, spell CD, enemy ATK and so on)
 3. The ending screen
@@ -38,7 +38,7 @@ What is planned to be changed or tweaked:
 5. something else idk
 
 Known bugs/glitches that aren't fixed yet:
-1. Sometimes one enemy or one particle will spawn after the game is over
+1. Sometimes one enemy or one particle will spawn after the game is over (don't know how to reproduce tho)
 
 Version history: 
 1. Jan 2, 2022: WIP ver.1
